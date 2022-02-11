@@ -1,0 +1,5 @@
+print('welocme to mc donalds what can i get you ?')
+print('1 a big mac')
+print('2 ice cream')
+print('3 MC NUGETTS')
+print('4 mc frise')
